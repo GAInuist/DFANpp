@@ -1,7 +1,7 @@
-# ETN
+# DFAN++
 
 ## Achitecture
-![](framework/framework.png)                                                
+![](framework/arc.pdf)                                                
 
 ## Running Environment
 The implementation of **ETN** is mainly based on Python 3.7.16 and [PyTorch](https://pytorch.org/) 1.12.1. To install all required dependencies:
