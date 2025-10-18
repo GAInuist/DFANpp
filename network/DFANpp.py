@@ -9,7 +9,7 @@ from .VBL import VBL
 import math
 
 
-class ETN(nn.Module):
+class DFANpp(nn.Module):
     def __init__(self, dim, attr_num, drop_rate=.3, n_head=8, glove_vector_length=300):
         super().__init__()
         self.encoder_dim = dim
