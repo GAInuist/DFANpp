@@ -14,11 +14,11 @@
 *DFAN++ Framework: Integrating EAFL, CDM and CPP branches*
 
 ## 🚀 Performance Highlights
-| Dataset | CZSL (acc) | GZSL (U) | GZSL (S) | GZSL (H) | Pretrained Models |
-|---------|------------|----------|----------|----------|-------------------|
-| **CUB** | 78.7       | 72.9     | 76.8     | 74.8     | xxx |
-| **SUN** | 68.1       | 51.4     | 40.5     | 45.3     | xxx |
-| **AWA2**| 71.7       | 66.2     | 84.5     | 74.2     | xxx |
+| Dataset | CZSL (acc) | GZSL (U) | GZSL (S) | GZSL (H) | 
+|---------|------------|----------|----------|----------|
+| **CUB** | 78.7       | 72.9     | 76.8     | 74.8     |
+| **SUN** | 68.1       | 51.4     | 40.5     | 45.3     |
+| **AWA2**| 71.7       | 66.2     | 84.5     | 74.2     |
 
 ## ⚙️ Installation
 ```bash
@@ -45,7 +45,16 @@ We provide trained models on three different datasets: (https://pan.baidu.com/s/
 ## ✏️ Citation
 ```bibtex
 {
-xxx
+@article{ZHU2025130880,
+title = {DFAN++: Enhanced triple-branch network for generalized zero-shot image classification},
+journal = {Neurocomputing},
+volume = {653},
+pages = {130880},
+year = {2025},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2025.130880},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231225015528},
+author = {Yifan Zhu and Lei Xiang and Yuan Zhou and Haoran Duan and Yang Long}
 }                                             
 ```
 
