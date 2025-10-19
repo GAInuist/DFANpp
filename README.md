@@ -54,8 +54,7 @@ year = {2025},
 issn = {0925-2312},
 doi = {https://doi.org/10.1016/j.neucom.2025.130880},
 url = {https://www.sciencedirect.com/science/article/pii/S0925231225015528},
-author = {Yifan Zhu and Lei Xiang and Yuan Zhou and Haoran Duan and Yang Long}
-                                           
+author = {Yifan Zhu and Lei Xiang and Yuan Zhou and Haoran Duan and Yang Long}                                     
 ```
 
 ## 🙏 Acknowledgements
