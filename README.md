@@ -44,7 +44,7 @@ We provide trained models on three different datasets: (https://pan.baidu.com/s/
 
 ## ✏️ Citation
 ```bibtex
-{
+
 @article{ZHU2025130880,
 title = {DFAN++: Enhanced triple-branch network for generalized zero-shot image classification},
 journal = {Neurocomputing},
@@ -55,7 +55,7 @@ issn = {0925-2312},
 doi = {https://doi.org/10.1016/j.neucom.2025.130880},
 url = {https://www.sciencedirect.com/science/article/pii/S0925231225015528},
 author = {Yifan Zhu and Lei Xiang and Yuan Zhou and Haoran Duan and Yang Long}
-}                                             
+                                           
 ```
 
 ## 🙏 Acknowledgements
