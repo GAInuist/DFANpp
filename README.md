@@ -34,12 +34,7 @@ pip install -r requirements.txt                        �
 | **AWA2**| [download link](https://cvml.ista.ac.at/AwA2/)       | 85     | 50     | 37322     |
 | **aPY** | [download link](https://vision.cs.uiuc.edu/attributes/)       | 64     | 32     | 15399     |
 
-we use standard splits from [*Xian et al.*](https://arxiv.org/abs/1707.00600)
-
-## 🏃 Training & Evaluation
-```bash
-python xxx                                             
-```
+we use standard splits from [*Xian et al.*](https://arxiv.org/abs/1707.00600).
 We provide trained models on three different datasets: (https://pan.baidu.com/s/1cfN3lu-_fTOc8LaOhmv1Uw?pwd=1111) Extraction code：1111
 
 ## ✏️ Citation
